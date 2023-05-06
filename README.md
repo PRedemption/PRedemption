@@ -1,10 +1,54 @@
-- 👋 Hi, I’m @PRedemption
-- 👀 I’m interested in Software Developmant in Flutter (Dart (Voip calling apps and interactive apps), Golang, Java, Node JS and Database adminstaration (MySQL and MonngoDB)
-- 🌱 I’m currently learning Bindura UNiversity of Science Education
-- 💞️ I’m looking to collaborate on Software developmen in all fields aspects
-- 📫 Reach me on my email paradzaigwira@gmail.com
+Full-Stack Developer
 
-<!---
-PRedemption/PRedemption is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! My name is Redemption Paradzai Gwira and I am a tech-savvy Full-Stack Developer with experience in server-side and front-end programming languages. I have worked with VoIP, MongoDB, and MySQL, and I am 23 years old.
+
+Skills
+Agile software development
+Source Control
+Golang
+Flutter
+Node.js
+Hugo
+Python
+Swift
+MySQL
+MongoDB
+TIDB
+Opensips
+cGrates
+gRPC
+Technical Research
+Linux Administration
+LTE Administration and Management
+WebRTC
+Website Development
+DEVOPS
+Experience
+
+I have experience working with a range of different technologies and programming languages, including Golang, Flutter, Node.js, Hugo, Python, Swift, MySQL, MongoDB, TIDB, Opensips, cGrates, gRPC, and more. I am familiar with Agile software development methodologies and have experience with source control.
+
+Technical Research
+
+I have experience conducting technical research to inform software development projects. I am comfortable working with complex technical concepts and have experience explaining them to non-technical stakeholders.
+
+Linux Administration
+
+I have experience with Linux administration and management, including installing and configuring software, managing users and groups, and troubleshooting system issues.
+
+LTE Administration and Management
+
+I have experience with LTE administration and management, including configuring and managing LTE networks and troubleshooting network issues.
+
+WebRTC
+
+I have experience with WebRTC, including building real-time communication applications and troubleshooting issues related to video and audio streaming.
+
+Website Development
+
+I have experience with website development, including designing and building responsive websites using HTML, CSS, and JavaScript. I am familiar with modern web development frameworks and libraries, including React and Angular.
+
+DEVOPS
+
+I have experience with DevOps practices and tools, including continuous integration and delivery (CI/CD), containerization, and automated testing. I have experience with tools such as Jenkins, GitLab, Docker, and Kubernetes.
+
+Thank you for considering me for your project. Please feel free to reach out to me if you have any questions or would like to discuss your project in more detail.
