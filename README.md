@@ -7,10 +7,11 @@ Agile software development
 Source Control
 Golang
 Flutter
-Node.js
+Node Js
+Vue Js
+.Net
 Hugo
 Python
-Swift
 MySQL
 MongoDB
 TIDB
@@ -19,13 +20,14 @@ cGrates
 gRPC
 Technical Research
 Linux Administration
+LTE Open5gs and CPE management
 LTE Administration and Management
 WebRTC
 Website Development
 DEVOPS
 Experience
 
-I have experience working with a range of different technologies and programming languages, including Golang, Flutter, Node.js, Hugo, Python, Swift, MySQL, MongoDB, TIDB, Opensips, cGrates, gRPC, and more. I am familiar with Agile software development methodologies and have experience with source control.
+I have experience working with various technologies and programming languages, including Golang, Flutter, Node.js, Hugo, Python, Swift, MySQL, MongoDB, TIDB, Opensips, cGrates, gRPC, and more. I am familiar with Agile software development methodologies and have experience with source control.
 
 Technical Research
 
@@ -41,7 +43,7 @@ I have experience with LTE administration and management, including configuring 
 
 WebRTC
 
-I have experience with WebRTC, including building real-time communication applications and troubleshooting issues related to video and audio streaming.
+I have experience with WebRTC, including building real-time communication applications and troubleshooting video and audio streaming issues.
 
 Website Development
 
@@ -51,4 +53,4 @@ DEVOPS
 
 I have experience with DevOps practices and tools, including continuous integration and delivery (CI/CD), containerization, and automated testing. I have experience with tools such as Jenkins, GitLab, Docker, and Kubernetes.
 
-Thank you for considering me for your project. Please feel free to reach out to me if you have any questions or would like to discuss your project in more detail.
+Thank you for considering me for your project. Please feel free to contact me if you have any questions or would like to discuss your project in more detail.
