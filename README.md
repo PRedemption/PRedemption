@@ -51,6 +51,6 @@ I have experience with website development, including designing and building res
 
 DEVOPS
 
-I have experience with DevOps practices and tools, including continuous integration and delivery (CI/CD), containerization, and automated testing. I have experience with tools such as Jenkins, GitLab, Docker, and Kubernetes.
+I have experience with DevOps practices and tools, including continuous integration and delivery (CI/CD), containerization, automated testing and Ansible. I have experience with tools such as Jenkins, GitLab, Docker, and Kubernetes.
 
 Thank you for considering me for your project. Please feel free to contact me if you have any questions or would like to discuss your project in more detail.
