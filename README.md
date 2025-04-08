@@ -3,7 +3,7 @@ Full-Stack Developer
 [Paradzai Gwira CV.pdf](https://github.com/user-attachments/files/17084067/Paradzai.Gwira.CV.pdf)
 
 
-Hello! My name is Redemption Paradzai Gwira and I am a tech-savvy Full-Stack Developer with experience in server-side and front-end programming languages. I have worked with VoIP, MongoDB, and MySQL, and I am 23 years old.
+Hello! My name is Redemption Paradzai Gwira and I am a tech-savvy Full-Stack Developer with experience in server-side and front-end programming languages. I have worked with VoIP, MongoDB, and MySQL.
 
 Skills
 Agile software development
