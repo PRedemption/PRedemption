@@ -8,6 +8,7 @@ Hello! My name is Redemption Paradzai Gwira and I am a tech-savvy Full-Stack Dev
 Skills
 Agile software development
 Source Control
+Java
 Golang
 Flutter
 Node Js
@@ -30,7 +31,7 @@ Website Development
 DEVOPS
 Experience
 
-I have experience working with various technologies and programming languages, including Golang, Flutter, Node.js, Hugo, Python, Swift, MySQL, MongoDB, TIDB, Opensips, cGrates, gRPC, and more. I am familiar with Agile software development methodologies and have experience with source control.
+I have experience working with various technologies and programming languages, including Java, Golang, Flutter, Node.js, Hugo, Python, Swift, MySQL, MongoDB, TIDB, Opensips, cGrates, gRPC, and more. I am familiar with Agile software development methodologies and have experience with source control.
 
 Technical Research
 
