@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Paradzai Gwira - AI Software Engineer</title>
+  <desc id="desc">Engineering intelligent systems that actually ship.</desc>
+  <defs>
+    <radialGradient id="glowViolet" cx="0.12" cy="0.05" r="0.6">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowCyan" cx="0.95" cy="1" r="0.6">
+      <stop offset="0" stop-color="#0e7490" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#0e7490" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="headline" gradientUnits="userSpaceOnUse" x1="420" y1="0" x2="1010" y2="0">
+      <stop offset="0" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="logo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64 0H0V64" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="420" rx="18" fill="#07070d"/>
+  <rect width="1280" height="420" rx="18" fill="url(#grid)"/>
+  <rect width="1280" height="420" rx="18" fill="url(#glowViolet)"/>
+  <rect width="1280" height="420" rx="18" fill="url(#glowCyan)"/>
+
+  <g stroke="#22d3ee" stroke-opacity="0.25" stroke-width="1">
+    <line x1="1040" y1="70" x2="1130" y2="40"/>
+    <line x1="1130" y1="40" x2="1190" y2="120"/>
+    <line x1="1190" y1="120" x2="1080" y2="150"/>
+    <line x1="1080" y1="150" x2="1040" y2="70"/>
+  </g>
+  <g fill="#a78bfa">
+    <circle cx="1040" cy="70" r="3"/>
+    <circle cx="1130" cy="40" r="2.5"/>
+    <circle cx="1190" cy="120" r="3"/>
+    <circle cx="1080" cy="150" r="2.5"/>
+  </g>
+
+  <g font-family="'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <rect x="64" y="52" width="44" height="44" rx="11" fill="url(#logo)"/>
+    <text x="86" y="81" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">PG</text>
+    <text x="124" y="82" font-size="22" font-weight="700" fill="#ffffff">Paradzai <tspan font-weight="400" fill="#d0d0d0">Gwira</tspan></text>
+
+    <text x="64" y="186" font-size="60" font-weight="800" fill="#ffffff">Engineering <tspan fill="url(#headline)">intelligent systems</tspan></text>
+    <text x="64" y="256" font-size="60" font-weight="800" fill="#ffffff">that actually ship.</text>
+
+    <text x="64" y="310" font-size="21" fill="#c9c9d6">AI Software Engineer  &#183;  GenAI  &#183;  Distributed systems  &#183;  Telecom &amp; real-time data</text>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">
+    <rect x="64" y="340" width="150" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.12"/>
+    <text x="139" y="362" text-anchor="middle" fill="#e5e5f0">LLMs &amp; RAG</text>
+    <rect x="226" y="340" width="170" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.12"/>
+    <text x="311" y="362" text-anchor="middle" fill="#e5e5f0">Real-time data</text>
+    <rect x="408" y="340" width="170" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.12"/>
+    <text x="493" y="362" text-anchor="middle" fill="#e5e5f0">VoIP &amp; 5G core</text>
+    <rect x="590" y="340" width="180" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.12"/>
+    <text x="680" y="362" text-anchor="middle" fill="#e5e5f0">Harare, Zimbabwe</text>
+
+    <text x="1216" y="362" text-anchor="end" fill="#34d399">&#9679; open to remote &amp; relocation</text>
+  </g>
+</svg>
