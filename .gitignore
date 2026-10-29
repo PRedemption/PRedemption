@@ -1,0 +1,6 @@
+*.json
+*.jsonl
+*.md
+/.cursor
+/.kiro
+/.claude
