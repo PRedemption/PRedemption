@@ -11,13 +11,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&lines=I+build+AI-powered+automation;I+build+conversational+agents;I+build+real-time+data+pipelines;I+build+distributed+backends;I+build+telecom-grade+platforms" alt="I build AI-powered automation, conversational agents, real-time data pipelines, distributed backends and telecom-grade platforms">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=780&lines=I+build+AI-powered+automation;I+build+Frappe+ERPNext+enterprise+solutions;I+build+banking+%26+finance+systems;I+build+real-time+data+pipelines;I+build+distributed+backends;I+build+telecom-grade+platforms" alt="I build AI-powered automation, Frappe ERPNext enterprise solutions, banking and finance systems, real-time data pipelines, distributed backends and telecom-grade platforms">
 </p>
 
 <p align="center">
   <a href="#about">About</a> &nbsp;&middot;&nbsp;
   <a href="#what-i-build">What I build</a> &nbsp;&middot;&nbsp;
   <a href="#experience">Experience</a> &nbsp;&middot;&nbsp;
+  <a href="#frappe--erpnext">ERPNext</a> &nbsp;&middot;&nbsp;
   <a href="#rd-lab--open-source">R&amp;D Lab</a> &nbsp;&middot;&nbsp;
   <a href="#apps-in-public-stores">Apps</a> &nbsp;&middot;&nbsp;
   <a href="#tech-stack">Stack</a> &nbsp;&middot;&nbsp;
@@ -32,7 +33,7 @@
 
 **Now:** AI Software Engineer at **Econet AI (Econet Wireless)**, Harare, Zimbabwe.
 
-I'm Paradzai Gwira, a formally trained autodidact who builds intelligent systems for telecom, fintech and enterprise teams. University gave me the foundations (algorithms, discrete mathematics, system design), and every modern framework, language and tool I ship with, I taught myself, from SIP and 5G cores to Spring Boot and agentic AI. I learn fast, prototype like a research lab and ship to production.
+I'm Paradzai Gwira, a formally trained autodidact who builds intelligent systems for telecom, fintech, banking and enterprise teams. University gave me the foundations (algorithms, discrete mathematics, system design), and every modern framework, language and tool I ship with, I taught myself, from SIP and 5G cores to Spring Boot, the **Frappe Framework**, **ERPNext** and agentic AI. Across Econet AI, Africom and Umbai I have delivered **Frappe ERPNext for banking and finance**, including the core modules and web integrations that connect procurement, accounting and inventory to core banking and regulatory reporting. I learn fast, prototype like a research lab and ship to production.
 
 | 5+ | 9+ | 5+ | 12 |
 | :---: | :---: | :---: | :---: |
@@ -43,7 +44,8 @@ from paradzai import Engineer
 
 pg = Engineer(
     role="AI Software Engineer",
-    focus=["LLMs", "data", "platforms"],
+    focus=["LLMs", "ERPNext", "banking", "data", "platforms"],
+    frameworks=["Frappe", "Spring Boot", "Flutter"],
     based_in="Harare, ZW",
     open_to=["remote", "relocation"],
 )
@@ -58,8 +60,10 @@ pg.ship(your_idea)
 
 | Capability | What it means in practice |
 | --- | --- |
+| **Frappe ERPNext enterprise** | Custom apps, DocTypes, workflows, server scripts and role permissions on the Frappe Framework. Delivering ERPNext for banking and finance with REST, SOAP and GraphQL integrations. |
+| **Banking & finance systems** | Accounts payable / receivable, procurement, fixed assets, inventory, intercompany accounting, expense allocations, loan management, core banking integrations and regulatory reporting, with secure SDLC (OWASP, ISO 27001, PCI-DSS). |
 | **AI & automation** | LLM-backed assistants, RAG, AI agents, chatbots and WhatsApp automation that take on real customer and operational work, grounded in verified data. |
-| **Production backends** | Secure, scalable services and REST / gRPC APIs with Java, Spring Boot, Python and Node.js. |
+| **Production backends** | Secure, scalable services and REST / SOAP / gRPC / GraphQL APIs with Java, Spring Boot, Python and Node.js. |
 | **Real-time data** | Data warehouses fed by Debezium CDC over a Redpanda message bus into ClickHouse, for revenue assurance and reporting. |
 | **Telecom & VoIP** | Call routing with OpenSIPS, real-time billing with CGRateS, 5G cores with Open5GS, and integrations with multiple mobile network operators. |
 | **Mobile delivery** | 9+ apps shipped across Android, iOS, Huawei AppGallery and Web (PWA), from VoIP calling to loyalty and payments. |
@@ -72,13 +76,15 @@ pg.ship(your_idea)
 
 <br>
 
-Leading the design of enterprise AI: generative AI, LLM, RAG and agent capabilities wired into telecom and business services.
+Leading the design of enterprise AI: generative AI, LLM, RAG and agent capabilities wired into telecom and business services. Delivering **Frappe ERPNext for banking and finance**.
 
 - Architect enterprise AI solutions integrating generative AI, LLMs, RAG and AI agents
 - Build scalable AI and data pipelines over large operational datasets
 - Ship Java / Spring Boot and Python microservices that connect models to core systems
 - Evaluate and productionise models for performance, reliability and cost
 - Set AI engineering practice: evaluation, prompt engineering, monitoring and responsible AI
+- Deliver Frappe ERPNext covering Accounting, Buying, Selling, Stock, Assets, CRM, Projects, Support, Manufacturing, Quality, HR, Payroll, POS, Loan Management, Maintenance and Website
+- Extend procurement, AP / AR, fixed assets, inventory, intercompany accounting and expense allocations, integrated with core banking and regulatory reporting over REST, SOAP and GraphQL
 
 </details>
 
@@ -100,13 +106,16 @@ Building a loyalty platform across PWA, Android and iOS, backed by secure, cloud
 
 <br>
 
-Led cross-platform VoIP products, then grew into data engineering and DevOps across the platform.
+Led cross-platform VoIP products, then grew into data engineering, DevOps and **Frappe ERPNext for banking-sector finance**.
 
 - Led VoIP apps for Android, iOS and Huawei devices and their SIP back ends, including **Taura**
 - Architected real-time billing (CGRateS), SIP routing and call processing (OpenSIPS) and chatbot platforms
 - Built an open-source, real-time data warehouse: Debezium CDC over Redpanda into ClickHouse
 - Designed revenue assurance dashboards that helped control leakage through major core-network changes
 - Delivered backends and payment modules for VoIP, messaging and payment apps serving thousands of users
+- Built and maintained Frappe ERPNext for banking-sector finance across the core modules (Accounting through Website)
+- Delivered procurement, AP / AR, fixed assets, inventory, intercompany accounting and expense allocations, with SQL and stored procedures on MariaDB, PostgreSQL, Oracle and SQL Server
+- Integrated ERPNext with core banking and external platforms using REST, SOAP and GraphQL, following secure SDLC practice with Git and Jenkins
 - Deployed and maintained LTE 4G EPC infrastructure; mentored junior engineers
 
 </details>
@@ -116,15 +125,47 @@ Led cross-platform VoIP products, then grew into data engineering and DevOps acr
 
 <br>
 
-Built payment platforms, chatbots, REST APIs and mobile products for African markets.
+Built payment platforms, chatbots, REST APIs, mobile products and **Frappe ERPNext web applications for banking and finance**.
 
 - Integrated 6 payment gateways and the services of 6 mobile network operators
 - Built WhatsApp chatbots and business automations for service, sales and orders
 - Developed .NET MAUI, C#, Vue.js and Angular apps on MVC microservices and REST APIs
+- Developed Frappe ERPNext web applications on Vue.js and Angular covering Accounting, Buying, Selling, Stock, Assets, CRM, Projects, Support, Manufacturing, Quality, HR, Payroll, POS, Loan Management, Maintenance and Website
+- Shipped procurement, AP / AR, fixed assets, inventory, intercompany accounting and expense allocation modules, with REST, SOAP and GraphQL integrations
 
 </details>
 
-<p>Full details: <a href="files/Paradzai-Gwira-AI-Software-Engineer-CV.pdf"><b>CV (PDF)</b></a> &middot; <a href="https://redemptionincsoftwares.co.zw/cv">online CV</a></p>
+<p>Full details: <a href="files/Paradzai-Gwira-AI-Software-Engineer-CV.pdf"><b>CV (PDF)</b></a> &nbsp;&middot;&nbsp; <a href="https://redemptionincsoftwares.co.zw/cv">online CV</a></p>
+
+## Frappe & ERPNext
+
+Enterprise ERP for banking and finance teams: customise the Frappe Framework, ship the ERPNext modules that matter, and wire them into core banking and regulatory systems.
+
+### Framework & platform
+
+| Capability | Detail |
+| --- | --- |
+| **Frappe Framework** | Custom apps, DocTypes, workflows, server scripts, print formats, hooks, role permissions, Bench |
+| **APIs & UI** | Frappe REST API, Python, Jinja, Vue.js / Angular front ends |
+| **Integrations** | REST, SOAP, GraphQL to core banking and external platforms |
+| **Data stores** | MariaDB, PostgreSQL, Oracle, SQL Server; SQL and stored procedures |
+| **Delivery** | Secure SDLC, Git, Jenkins, Agile / Scrum, UAT, application support |
+
+### ERPNext core modules
+
+Accounting &middot; Buying &middot; Selling &middot; Stock &middot; Assets &middot; CRM &middot; Projects &middot; Support &middot; Manufacturing &middot; Quality &middot; Human Resources &middot; Payroll &middot; Point of Sale &middot; Loan Management &middot; Maintenance &middot; Website
+
+### Banking & finance domain
+
+| Area | What I deliver |
+| --- | --- |
+| **Finance ops** | Accounts payable, accounts receivable, expense allocations, intercompany accounting |
+| **Procurement & assets** | Procurement, fixed assets, inventory |
+| **Lending** | Loan Management module configuration and extensions |
+| **Bank connectivity** | Core banking integrations and regulatory reporting |
+| **Security & governance** | Secure SDLC, OWASP, ISO 27001, PCI-DSS, data governance |
+
+Built for smarter banking solutions: process automation, business analysis and production-ready ERPNext that operations teams can actually run.
 
 ## R&D Lab & open source
 
@@ -140,8 +181,8 @@ Built payment platforms, chatbots, REST APIs and mobile products for African mar
 
 Shipped to Android, iOS, Huawei AppGallery and Web (PWA):
 
-- **Taura**: low-cost international calls to any mobile or landline; the person you call needs no internet or app. [Google Play](https://play.google.com/store/apps/details?id=org.duri.taura) &middot; [App Store](https://apps.apple.com/zw/app/taura/id1592996258)
-- **Kurira**: cross-platform app for everyday voice and connectivity in African markets. [Google Play](https://play.google.com/store/apps/details?id=org.kurira.app) &middot; [App Store](https://apps.apple.com/ng/app/kurira/id1643459023)
+- **Taura**: low-cost international calls to any mobile or landline; the person you call needs no internet or app. [Google Play](https://play.google.com/store/apps/details?id=org.duri.taura) &nbsp;&middot;&nbsp; [App Store](https://apps.apple.com/zw/app/taura/id1592996258)
+- **Kurira**: cross-platform app for everyday voice and connectivity in African markets. [Google Play](https://play.google.com/store/apps/details?id=org.kurira.app) &nbsp;&middot;&nbsp; [App Store](https://apps.apple.com/ng/app/kurira/id1643459023)
 - **Umbai Merchant**: payments and transaction management, backed by secure REST APIs. [Google Play](https://play.google.com/store/apps/details?id=com.umbai.app)
 - Also: **Points Africa**, **Mobilielink**, **CatchApp**, **Maswerasei**, **Homekonnect**, **Hello Africa**
 
@@ -154,17 +195,21 @@ Shipped to Android, iOS, Huawei AppGallery and Web (PWA):
   <br>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,githubactions,gitlab,jenkins,aws,gcp,linux,git&perline=10" alt="Cloud and DevOps">
   <br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=10" alt="Databases">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=10" alt="Databases">
 </p>
 
 | Area | Tools |
 | --- | --- |
 | **AI & ML** | Generative AI, LLMs, RAG, AI agents, prompt engineering, model evaluation, responsible AI, Python |
-| **Backend & distributed systems** | Java, Spring Boot, Spring Cloud, Node.js, TypeScript, Go, C# / .NET, REST, gRPC, GraphQL, microservices, RabbitMQ |
-| **Data & streaming** | Debezium CDC, Redpanda / Kafka, ClickHouse, data warehousing, Grafana, SQL |
+| **Frappe & ERPNext** | Frappe Framework, ERPNext, custom apps, DocTypes, workflows, server scripts, print formats, Frappe REST API, hooks, role permissions, Bench, Jinja |
+| **ERPNext core modules** | Accounting, Buying, Selling, Stock, Assets, CRM, Projects, Support, Manufacturing, Quality, HR, Payroll, POS, Loan Management, Maintenance, Website |
+| **Banking & finance** | AP / AR, procurement, fixed assets, inventory, intercompany accounting, expense allocations, core banking integrations, regulatory reporting, OWASP, ISO 27001, PCI-DSS |
+| **Backend & distributed systems** | Java, J2EE, Spring Boot, Spring Cloud, Node.js, TypeScript, Go, C# / .NET, REST, SOAP, gRPC, GraphQL, microservices, RabbitMQ, middleware |
+| **Web technologies** | HTML5, CSS3, JavaScript, TypeScript, React, Vue.js, Angular, Express, PWA |
+| **Data & streaming** | Debezium CDC, Redpanda / Kafka, ClickHouse, data warehousing, Grafana, SQL, stored procedures, MariaDB, PostgreSQL, Oracle, SQL Server, Redis |
 | **Telecom & networks** | SIP / VoIP, OpenSIPS, CGRateS, LTE 4G EPC, Open5GS 5G core, 6G research, operator integrations |
 | **Mobile & platforms** | Flutter / Dart, Kotlin, React Native, .NET MAUI, Android, iOS, Huawei HMS, PWA, Firebase, Codemagic, Shorebird OTA, Strapi CMS |
-| **Cloud, DevOps & quality** | Docker, Kubernetes, Helm, Ansible, GitHub Actions, GitLab CI, Jenkins, AWS, Linux, TDD, JUnit, Jest |
+| **Cloud, DevOps & quality** | Docker, Kubernetes, Helm, Ansible, GitHub Actions, GitLab CI, Jenkins, AWS, Linux, TDD, JUnit, Jest, UAT |
 
 ## How I work
 
@@ -192,7 +237,7 @@ Reach out at [paradzaigwira@gmail.com](mailto:paradzaigwira@gmail.com) or on [my
 
 ## Let's ship it
 
-AI automation, data platforms or production backends: tell me what you're trying to change and let's figure out the fastest path to production.
+AI automation, **ERPNext enterprise solutions**, banking platforms or production backends: tell me what you're trying to change and let's figure out the fastest path to production.
 
 <p align="center">
   <a href="https://redemptionincsoftwares.co.zw/"><b>Portfolio</b></a> &nbsp;&middot;&nbsp;
